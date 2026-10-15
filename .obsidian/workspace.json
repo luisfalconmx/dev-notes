@@ -105,12 +105,11 @@
               "title": "Notebook Navigator"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 335.8359375
   },
   "right": {
     "id": "0909f03e40e2be32",
@@ -227,7 +226,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "af329f7793a00f4d",
+  "active": "319558aea4482ae8",
   "lastOpenFiles": [
     "Welcome.md"
   ]
