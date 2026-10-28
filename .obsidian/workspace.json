@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "solid/This is a test.md",
+                "file": "solid-and-clean-code/2.0.0 - Ausencia de Información técnica en nombres.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "This is a test"
+              "title": "2.0.0 - Ausencia de Información técnica en nombres"
             }
           }
         ]
@@ -94,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 335.8359375
+    "width": 348.62109375
   },
   "right": {
     "id": "0909f03e40e2be32",
@@ -212,10 +212,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b15025b32ee3c4f4",
+  "active": "7a21445741c58bee",
   "lastOpenFiles": [
+    "solid-and-clean-code/Untitled.md",
+    "solid-and-clean-code/2.0.0 - Ausencia de Información técnica en nombres.md",
+    "solid-and-clean-code/1.1.0 - Ejercicio de nombres pronunciables y expresivos.md",
+    "solid-and-clean-code/1.0.0 - Nombres pronunciables y expresivos.md",
+    "solid-and-clean-code/0.0.0 - Frases.md",
     "Welcome.md",
-    "solid/This is a test.md",
-    "solid"
+    "solid-and-clean-code"
   ]
 }

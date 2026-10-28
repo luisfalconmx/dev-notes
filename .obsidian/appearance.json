@@ -1,6 +1,10 @@
 {
-  "cssTheme": "Minimal",
-  "enabledCssSnippets": [
-    "custom"
-  ]
+  "cssTheme": "Encore",
+  "enabledCssSnippets": [],
+  "translucency": true,
+  "theme": "obsidian",
+  "accentColor": "#ffffff",
+  "interfaceFontFamily": "Outfit",
+  "textFontFamily": "Outfit",
+  "monospaceFontFamily": "Fira Code"
 }
